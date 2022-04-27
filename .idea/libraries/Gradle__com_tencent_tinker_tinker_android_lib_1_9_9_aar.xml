@@ -2,11 +2,19 @@
   <library name="Gradle: com.tencent.tinker:tinker-android-lib:1.9.9@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ad7c05cfa54a1c0b316e1bf8d34a2926/transformed/jetified-tinker-android-lib-1.9.9/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b65882b2aec002900a285ff17dd4204f/transformed/jetified-tinker-android-lib-1.9.9/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f3cabc5997ed46d02a9d4e992cda2888/transformed/jetified-tinker-android-lib-1.9.9/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ad7c05cfa54a1c0b316e1bf8d34a2926/transformed/jetified-tinker-android-lib-1.9.9/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ad7c05cfa54a1c0b316e1bf8d34a2926/transformed/jetified-tinker-android-lib-1.9.9/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ad7c05cfa54a1c0b316e1bf8d34a2926/transformed/jetified-tinker-android-lib-1.9.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b65882b2aec002900a285ff17dd4204f/transformed/jetified-tinker-android-lib-1.9.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b65882b2aec002900a285ff17dd4204f/transformed/jetified-tinker-android-lib-1.9.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b65882b2aec002900a285ff17dd4204f/transformed/jetified-tinker-android-lib-1.9.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f3cabc5997ed46d02a9d4e992cda2888/transformed/jetified-tinker-android-lib-1.9.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f3cabc5997ed46d02a9d4e992cda2888/transformed/jetified-tinker-android-lib-1.9.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f3cabc5997ed46d02a9d4e992cda2888/transformed/jetified-tinker-android-lib-1.9.9/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.tinker/tinker-android-lib/1.9.9/5f39b94e758e78a10f8422e9f6eb76c591163ae3/tinker-android-lib-1.9.9-javadoc.jar!/" />
